@@ -10,7 +10,7 @@ const Chart = () => {
                     <h2 className='text-[17px] sm:text-[32px] leading-[43.1px] font-normal'><span className='text-[50px] sm:text-[64px] leading-[86.21px]'>real</span>, the unspoken male experience.</h2>
                     <div className='h-[1px] w-full max-w-[650px] bg-white'></div>
                     <p className='sm:text-[32px] sm:leading-[43.1px] text-[25px] leading-[35px] font-normal mt-[15px] xl:max-w-[709px]'>     Real is a social phenomenon that dwarfs all other zoomer trends in comparison. </p>
-                    <p className='sm:text-[32px] sm:leading-[43.1px] text-[25px] leading-[35px] font-normal mb-1.5 mt-1 xl:max-w-[709px]'>You've undeniably felt it before, that feeling of kinship through a mutual experience summarized in one word, real.</p>
+                    <p className='sm:text-[32px] sm:leading-[43.1px] text-[25px] leading-[35px] font-normal mb-1.5 mt-1 xl:max-w-[709px]'>You&apos;ve undeniably felt it before, that feeling of kinship through a mutual experience summarized in one word, real.</p>
                     <h3 className='sm:text-[64px] text-[40px] leading-[86.21px] font-normal'>REAL STATISTICS</h3>
                 </div>
                 <Image src='/assets/real-statistics.png' alt='real-statistics' loading='lazy' width={700} height={500} className='ml-[-72px]' />
